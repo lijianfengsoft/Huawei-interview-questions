@@ -29,6 +29,8 @@ int main(void)
 
 	printf("changes!");
 
+	printf("changes2!");
+
 	system("pause");
 	return 0;
 }
