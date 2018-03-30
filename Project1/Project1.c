@@ -27,6 +27,8 @@ int main(void)
 
 	printf("%d\r\n", num);
 
+	printf("changes!");
+
 	system("pause");
 	return 0;
 }
